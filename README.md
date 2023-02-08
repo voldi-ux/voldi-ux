@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Voldi</h1>
-<h3 align="center">A passionate Computer Science and Applied Maths student who totaly enjoys coding. </h3>
+<h3 align="center">A passionate Computer Science and Applied Maths student Who Totaly Enjoys Coding. </h3>
 
 **** About Me😎
 >🖥 I have about 3 years of experience in software developement
