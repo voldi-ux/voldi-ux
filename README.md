@@ -4,7 +4,6 @@
 ** About Me😎
 >🖥 I have about 3 years of experience in software development
 >
-> 👌 Can be hired partime only since I am a full time student
 >
 >🐱‍👤 I am ready to collaborate on projects with fellow developers
 
