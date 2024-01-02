@@ -10,8 +10,8 @@
 **🐱 My GitHub Data** 
 >
  > 
-> 📜 22 Public Repositories 
+> 📜 28 Public Repositories 
  > 
-> 🔑 2 Private Repositories  
+> 🔑 1 Private Repositories  
  > 
 
