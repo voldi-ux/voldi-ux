@@ -7,11 +7,4 @@
 >
 >🐱‍👤 I am ready to collaborate on projects with fellow developers
 
-**🐱 My GitHub Data** 
->
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 1 Private Repositories  
- > 
 
